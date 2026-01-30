@@ -1,1 +1,1 @@
-# Maegan-Lampman_Long-PublicRemoteRepo1
+# Hi my name is Maegan Lampman-Long, I'm in my last semester of the Web Development and Internet Applications program at Fanshawe College. I plan on also pursuing a degree in Computer Programming and Analysis.
